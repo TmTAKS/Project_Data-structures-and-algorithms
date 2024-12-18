@@ -1,0 +1,17 @@
+Player: N, Difficulty: 1, Time: 2.113 seconds
+Player: N, Difficulty: 1, Time: 1.793 seconds
+Player: N, Difficulty: 2, Time: 4.342 seconds
+Player: N, Difficulty: 3, Time: 8.131 seconds
+Player: Player, Difficulty: 1, Time: 29.954 seconds
+Player: Player, Difficulty: 1, Time: 1.068 seconds
+Player: Player, Difficulty: 1, Time: 8.986 seconds
+Player: Player, Difficulty: 1, Time: 16.171 seconds
+Player: Player, Difficulty: 1, Time: 2.861 seconds
+Player: Player, Difficulty: 1, Time: 6.65 seconds
+Player: Test, Difficulty: 1, Time: 6.492 seconds
+Player: Test2, Difficulty: 1, Time: 12.198 seconds
+Player: lol, Difficulty: 1, Time: 3.854 seconds
+Player: N, Difficulty: 2, Time: 4.581 seconds
+Player: hello, Difficulty: 1, Time: 5.249 seconds
+Player: Ni, Difficulty: 1, Time: 1.723 seconds
+Player: m, Difficulty: 1, Time: 6.126 seconds
